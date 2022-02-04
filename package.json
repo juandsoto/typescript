@@ -1,0 +1,11 @@
+{
+	"name": "typescript",
+	"version": "1.0.0",
+	"description": "learning typescript concepts",
+	"main": "index.ts",
+	"scripts": {
+		"start": "ts-node src/index.ts"
+	},
+	"author": "juandsoto",
+	"license": "MIT"
+}
